@@ -1,2 +1,1 @@
-# springcloud-config
-Spring Cloud Config Learning
+# Spring Cloud Config Learning
